@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/SausoonTech.Tools.Logger/obj
+/SausoonTech.Tools.Logger/bin
