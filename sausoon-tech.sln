@@ -5,7 +5,7 @@ VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test_console", "test_console\test_console.vcxproj", "{F83D2F65-6A79-4306-B090-6FBB92154EC4}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "logger", "logger\logger.vcxproj", "{71523DB4-F5B9-4974-9E35-AD748CBC9ECA}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "file-handler", "file-handler\file-handler.vcxproj", "{71523DB4-F5B9-4974-9E35-AD748CBC9ECA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -3,5 +3,5 @@
 ################################################################################
 
 /.vs
-/SausoonTech.Tools.Logger/obj
-/SausoonTech.Tools.Logger/bin
+/bin
+/obj

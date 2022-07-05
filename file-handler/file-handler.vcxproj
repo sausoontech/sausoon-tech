@@ -14,8 +14,9 @@
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
     <ProjectGuid>{71523db4-f5b9-4974-9e35-ad748cbc9eca}</ProjectGuid>
-    <RootNamespace>logger</RootNamespace>
+    <RootNamespace>file-handler</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>file-handler</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
@@ -92,11 +93,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="log_row.cpp" />
+    <ClCompile Include="file-handler-settings.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="log_row.h" />
-    <ClInclude Include="log_message_type_enum.h" />
+    <ClInclude Include="file-handler.h" />
+    <ClInclude Include="file-handler-builder.h" />
+    <ClInclude Include="file-size-unit-enum.h" />
+    <ClInclude Include="file-handler-settings.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

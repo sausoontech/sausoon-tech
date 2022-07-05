@@ -88,7 +88,7 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\logger\logger.vcxproj">
+    <ProjectReference Include="..\file-handler\file-handler.vcxproj">
       <Project>{71523db4-f5b9-4974-9e35-ad748cbc9eca}</Project>
     </ProjectReference>
   </ItemGroup>
