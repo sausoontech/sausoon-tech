@@ -3,5 +3,11 @@
 ################################################################################
 
 /.vs
-/bin
-/obj
+SausoonTech.Constants/bin
+SausoonTech.Constants/obj
+SausoonTech.Enums/bin
+SausoonTech.Enums/obj
+SausoonTech.Logger/bin
+SausoonTech.Logger/obj
+SausoonTech.TestConsole/bin
+SausoonTech.TestConsole/obj

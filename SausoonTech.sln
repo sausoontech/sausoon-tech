@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SausoonTech.TestConsole", "SausoonTech.TestConsole\SausoonTech.TestConsole.csproj", "{4DE5806E-730D-4D31-B2DD-6306C06CC944}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SausoonTech.Enums", "SausoonTech.Enums\SausoonTech.Enums.csproj", "{CCA149C5-5CAF-45B4-A6C4-F23A33881272}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SausoonTech.Logger", "SausoonTech.Logger\SausoonTech.Logger.csproj", "{60D08705-79B1-453A-A3A6-817240B9FE45}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SausoonTech.Constants", "SausoonTech.Constants\SausoonTech.Constants.csproj", "{F9DF1B4C-E6F0-42B9-B880-D1E7654C36C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DE5806E-730D-4D31-B2DD-6306C06CC944}.Debug|x64.ActiveCfg = Debug|x64
+		{4DE5806E-730D-4D31-B2DD-6306C06CC944}.Debug|x64.Build.0 = Debug|x64
+		{4DE5806E-730D-4D31-B2DD-6306C06CC944}.Release|x64.ActiveCfg = Release|x64
+		{4DE5806E-730D-4D31-B2DD-6306C06CC944}.Release|x64.Build.0 = Release|x64
+		{CCA149C5-5CAF-45B4-A6C4-F23A33881272}.Debug|x64.ActiveCfg = Debug|x64
+		{CCA149C5-5CAF-45B4-A6C4-F23A33881272}.Debug|x64.Build.0 = Debug|x64
+		{CCA149C5-5CAF-45B4-A6C4-F23A33881272}.Release|x64.ActiveCfg = Release|x64
+		{CCA149C5-5CAF-45B4-A6C4-F23A33881272}.Release|x64.Build.0 = Release|x64
+		{60D08705-79B1-453A-A3A6-817240B9FE45}.Debug|x64.ActiveCfg = Debug|x64
+		{60D08705-79B1-453A-A3A6-817240B9FE45}.Debug|x64.Build.0 = Debug|x64
+		{60D08705-79B1-453A-A3A6-817240B9FE45}.Release|x64.ActiveCfg = Release|x64
+		{60D08705-79B1-453A-A3A6-817240B9FE45}.Release|x64.Build.0 = Release|x64
+		{F9DF1B4C-E6F0-42B9-B880-D1E7654C36C1}.Debug|x64.ActiveCfg = Debug|x64
+		{F9DF1B4C-E6F0-42B9-B880-D1E7654C36C1}.Debug|x64.Build.0 = Debug|x64
+		{F9DF1B4C-E6F0-42B9-B880-D1E7654C36C1}.Release|x64.ActiveCfg = Release|x64
+		{F9DF1B4C-E6F0-42B9-B880-D1E7654C36C1}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {537E9504-29CE-451C-AB3C-AD7683A20655}
+	EndGlobalSection
+EndGlobal
