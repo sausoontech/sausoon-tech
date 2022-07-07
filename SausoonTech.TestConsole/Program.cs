@@ -11,6 +11,8 @@
             Logger.Info("Info");
             Logger.Warning("Warning");
             Logger.Error("Error", new Exception("Error happens"));
+
+            Console.ReadLine();
         }
     }
 }
